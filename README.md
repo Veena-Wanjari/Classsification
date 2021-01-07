@@ -1,4 +1,4 @@
-Classification and Their Types
+# Classification and Their Types
 
 __What Is Classification?__
 
